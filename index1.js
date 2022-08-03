@@ -5,5 +5,5 @@ const person = {
         //return this.firstName +" "+ / this.LastName;
     }
 }
-console.log(person.fullname())
+console.log(person.fullName())
 //person.fullName();
