@@ -1,4 +1,8 @@
-function func(){
-    console.log("greetings");
+const person = {
+    firstname = "Soumya Ranjan",
+    lastname = "Satpathy",
+    fullname:function(){
+
+    }
 }
-func()
+console.log(person.fullname())
